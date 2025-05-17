@@ -4,6 +4,12 @@
 
 This repository is for generating PMTiles of the Otaniemi area using [protomaps/basemaps](https://github.com/protomaps/basemaps). 🗺️
 
+## Demo
+![on PMTiles viewer](https://pmtiles.io/#map=13.64/60.1854/24.82935&url=https%3A%2F%2Fhfu.github.io%2Fotaniemi.pmtiles%2Fotaniemi.pmtiles)
+
+### Raw PMTiles access
+https://hfu.github.io/otaniemi.pmtiles/otaniemi.pmtiles
+
 ## Requirements 🚀
 
 - Java ☕
