@@ -30,7 +30,6 @@ git clone https://github.com/protomaps/basemaps.git
 ```sh
 cd ../basemaps/tiles
 make clean
-make
 ```
 
 This will generate the required JAR file at `../basemaps/tiles/target/*-with-deps.jar`.
@@ -42,7 +41,7 @@ This will generate the required JAR file at `../basemaps/tiles/target/*-with-dep
 
 ## Usage 📝
 
-1. Place the necessary data in `data/sources/`.
+1. <strike>Place the necessary data in `data/sources/`.</strike> This step is done in 2.
 2. Generate the PMTiles file with the following command:
 
 ```sh
